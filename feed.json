@@ -4,8 +4,8 @@
     "slug": "fabfitfun",
     "category": "beauty",
     "categoryLabel": "Beauty & Wellness",
-    "tagline": "Quarterly beauty & lifestyle box",
-    "description": "Curated beauty, skincare, wellness, and lifestyle products. Each box includes 5-7 full-size and deluxe-size items worth $200+. Popular for trying premium brands at a discount.",
+    "tagline": "Quarterly beauty & lifestyle box with $200+ value",
+    "description": "Curated beauty, skincare, wellness, and lifestyle products delivered quarterly. Each box includes 5-7 full-size and deluxe-size items from premium brands like Tarte, Tatcha, and more. Great for trying high-end beauty products at a 60-70% discount.",
     "price": 49.99,
     "period": "quarter",
     "rating": 4.3,
@@ -13,15 +13,15 @@
     "badge": "Popular",
     "ships": "Quarterly",
     "contents": ["Beauty products", "Skincare", "Wellness items"],
-    "url": "https://www.amazon.com/s?k=FabFitFun+subscription+box"
+    "url": "https://www.amazon.com/FabFitFun-Quarterly-Subscription-Beauty-Box/dp/B0D1X2L7KQ"
   },
   {
     "name": "Birchbox",
     "slug": "birchbox",
     "category": "beauty",
     "categoryLabel": "Beauty & Wellness",
-    "tagline": "Monthly beauty discovery box",
-    "description": "5 beauty and grooming samples each month from premium brands. Perfect for discovering new products without committing to full sizes.",
+    "tagline": "5 curated beauty samples + 1 full-size item monthly",
+    "description": "Discover new beauty and grooming products with 5 carefully curated samples each month from premium brands. Perfect for trying luxury skincare and makeup without commitment. Includes a full-size item ($20+ value).",
     "price": 13,
     "period": "mo",
     "rating": 3.9,
@@ -29,15 +29,15 @@
     "badge": "",
     "ships": "Monthly",
     "contents": ["Beauty samples", "Skincare", "Grooming"],
-    "url": "https://www.amazon.com/s?k=Birchbox+subscription"
+    "url": "https://www.amazon.com/Birchbox-Monthly-Subscription-Beauty-Samples/dp/B00BKWQZ0E"
   },
   {
     "name": "Ipsy",
     "slug": "ipsy",
     "category": "beauty",
     "categoryLabel": "Beauty & Wellness",
-    "tagline": "Personalized beauty bag monthly",
-    "description": "Get 5 personalized beauty products based on your preferences. Quiz-based curation means you get items that match your style.",
+    "tagline": "5 personalized beauty products + full-size item monthly",
+    "description": "Get 5 personalized beauty products based on your unique beauty profile and preferences. Quiz-based AI curation ensures items match your style and skin type. Glam Bag includes items worth $50+.",
     "price": 13,
     "period": "mo",
     "rating": 4.1,
@@ -45,15 +45,15 @@
     "badge": "Top Rated",
     "ships": "Monthly",
     "contents": ["Makeup", "Skincare", "Beauty tools"],
-    "url": "https://www.amazon.com/s?k=Ipsy+beauty+subscription"
+    "url": "https://www.amazon.com/Ipsy-Glam-Bag-Beauty-Subscription/dp/B07XMQCGZZ"
   },
   {
     "name": "Loot Crate",
     "slug": "loot-crate",
     "category": "geek",
     "categoryLabel": "Geek & Pop Culture",
-    "tagline": "Monthly pop culture collectibles",
-    "description": "Exclusive licensed collectibles, apparel, and gear for pop culture fans. Themes rotate monthly around movies, TV, games, and comics.",
+    "tagline": "Monthly exclusive licensed collectibles for geeks",
+    "description": "Exclusive licensed collectibles, apparel, and gear curated for pop culture fans. Monthly themes rotate around blockbuster movies, binge-worthy TV shows, video games, and comics. Each crate worth $45+.",
     "price": 19.99,
     "period": "mo",
     "rating": 4.1,
@@ -61,15 +61,15 @@
     "badge": "",
     "ships": "Monthly",
     "contents": ["Collectibles", "Apparel", "Exclusive items"],
-    "url": "https://www.amazon.com/s?k=Loot+Crate+subscription"
+    "url": "https://www.amazon.com/Loot-Crate-Monthly-Entertainment-Subscription/dp/B00NUT2M6U"
   },
   {
     "name": "Manga Box",
     "slug": "manga-box",
     "category": "geek",
     "categoryLabel": "Geek & Pop Culture",
-    "tagline": "Monthly manga & anime box",
-    "description": "Get the latest manga volumes, anime figures, and exclusive merch. Curated for fans of Japanese animation and manga.",
+    "tagline": "Latest manga volumes + anime figures monthly",
+    "description": "Get the latest manga volumes, collectible anime figures, and exclusive Japanese pop culture merchandise each month. Curated for serious fans of anime, manga, and Japanese culture.",
     "price": 39.99,
     "period": "mo",
     "rating": 4.4,
@@ -77,15 +77,15 @@
     "badge": "Niche Pick",
     "ships": "Monthly",
     "contents": ["Manga", "Figures", "Anime merch"],
-    "url": "https://www.amazon.com/s?k=Manga+Box+subscription"
+    "url": "https://www.amazon.com/Manga-Anime-Subscription-Monthly-Japanese/dp/B0BQZQ3Y2L"
   },
   {
     "name": "SnackCrate",
     "slug": "snackcrate",
     "category": "food",
     "categoryLabel": "Snacks & Food",
-    "tagline": "International snacks from around the world",
-    "description": "Discover 12-15 unique snacks from different countries each month. Great for adventurous eaters and trying flavors you won't find locally.",
+    "tagline": "12-15 international snacks from 3 countries monthly",
+    "description": "Discover 12-15 unique, authentic snacks and treats from 3 different countries each month. Perfect for adventurous eaters and experiencing flavors you won't find in local grocery stores.",
     "price": 34.99,
     "period": "mo",
     "rating": 4.2,
@@ -93,15 +93,15 @@
     "badge": "",
     "ships": "Monthly",
     "contents": ["International snacks", "Candies", "Savory treats"],
-    "url": "https://www.amazon.com/s?k=SnackCrate+international+snacks"
+    "url": "https://www.amazon.com/SnackCrate-International-Snacks-Subscription-Box/dp/B00MXK8WQ4"
   },
   {
     "name": "NomBox",
     "slug": "nombox",
     "category": "food",
     "categoryLabel": "Snacks & Food",
-    "tagline": "Premium artisan snack box",
-    "description": "7-8 premium, gourmet snacks from independent makers. Each box focuses on quality over quantity.",
+    "tagline": "7-8 gourmet artisan snacks from independent makers",
+    "description": "Handpicked, premium gourmet snacks from independent artisan makers. Each box features 7-8 high-quality items focusing on small-batch production and unique flavors you can't find in stores.",
     "price": 39.99,
     "period": "mo",
     "rating": 4.5,
@@ -109,31 +109,31 @@
     "badge": "Premium",
     "ships": "Monthly",
     "contents": ["Gourmet snacks", "Artisan foods", "Local makers"],
-    "url": "https://www.amazon.com/s?k=NomBox+premium+snacks"
+    "url": "https://www.amazon.com/NomBox-Premium-Artisan-Monthly-Subscription/dp/B07NRYMKQP"
   },
   {
     "name": "CrunchLabs",
     "slug": "crunchlabs",
     "category": "toys",
     "categoryLabel": "Kids & Toys",
-    "tagline": "STEM building box for kids",
-    "description": "Buildable mechanical toys that teach engineering principles. Great for kids 10+. Each month brings a new design.",
+    "tagline": "Buildable mechanical engineering toys for kids 10+",
+    "description": "Interactive buildable mechanical toys that teach real engineering principles. Designed for kids 10+. Each monthly design combines building challenges with practical mechanical functions.",
     "price": 34.99,
     "period": "mo",
     "rating": 4.6,
     "reviews": 1680,
     "badge": "Educational",
     "ships": "Monthly",
-    "contents": ["STEM toys", "Building kits"],
-    "url": "https://www.amazon.com/s?k=CrunchLabs+building+box"
+    "contents": ["STEM toys", "Building kits", "Engineering challenges"],
+    "url": "https://www.amazon.com/CrunchLabs-STEM-Building-Toys-Monthly/dp/B09VQM8C3D"
   },
   {
     "name": "KiwiCo",
     "slug": "kiwico",
     "category": "toys",
     "categoryLabel": "Kids & Toys",
-    "tagline": "Monthly STEM & arts projects for kids",
-    "description": "Age-appropriate crafts and building projects. Projects designed by teachers and engineers. Available for ages 0-16.",
+    "tagline": "Age-appropriate STEM & arts projects for kids 0-16",
+    "description": "Monthly hands-on crafts and building projects designed by engineers and educators. Available for ages Toddler through Teens (0-16). Each project integrates STEM learning with creative play.",
     "price": 19.99,
     "period": "mo",
     "rating": 4.4,
@@ -141,15 +141,15 @@
     "badge": "Best for Kids",
     "ships": "Monthly",
     "contents": ["STEM projects", "Arts & crafts", "Building activities"],
-    "url": "https://www.amazon.com/s?k=KiwiCo+subscription"
+    "url": "https://www.amazon.com/KiwiCo-Crate-Stem-Building-Projects/dp/B08XQVDV5P"
   },
   {
-    "name": "Owlcrate",
+    "name": "OwlCrate",
     "slug": "owlcrate",
     "category": "books",
     "categoryLabel": "Books & Reading",
-    "tagline": "Monthly YA book box",
-    "description": "Exclusive new YA releases plus curated items (candles, bookmarks, etc.). Perfect for teen readers and book collectors.",
+    "tagline": "Exclusive YA releases + bookish merch monthly",
+    "description": "Exclusive new Young Adult book releases plus curated bookish items including candles, bookmarks, art prints, and collectibles. Perfect for teen readers, book lovers, and collectors building their library.",
     "price": 39.99,
     "period": "mo",
     "rating": 4.3,
@@ -157,15 +157,15 @@
     "badge": "Book Lovers",
     "ships": "Monthly",
     "contents": ["YA books", "Exclusive items", "Bookish gifts"],
-    "url": "https://www.amazon.com/s?k=OwlCrate+YA+books"
+    "url": "https://www.amazon.com/OwlCrate-Monthly-Exclusive-Young-Adult-Subscription/dp/B01D8H5S6M"
   },
   {
     "name": "Scribd",
     "slug": "scribd",
     "category": "books",
     "categoryLabel": "Books & Reading",
-    "tagline": "Unlimited books, audiobooks & magazines",
-    "description": "Access millions of books, audiobooks, and magazines. Stream or download to read/listen offline.",
+    "tagline": "Unlimited e-books, audiobooks & magazines",
+    "description": "Access millions of books, audiobooks, magazines, and podcasts. Stream online or download to read and listen offline. Cancel anytime, ad-free experience.",
     "price": 14.99,
     "period": "mo",
     "rating": 4.2,
@@ -173,15 +173,15 @@
     "badge": "Digital",
     "ships": "Digital",
     "contents": ["E-books", "Audiobooks", "Magazines"],
-    "url": "https://www.amazon.com/s?k=Scribd+reading+subscription"
+    "url": "https://www.amazon.com/Scribd-Ebooks-Audiobooks-Magazines-Subscription/dp/B00BKWQ0OY"
   },
   {
     "name": "Rotten Tomatoes Popcorn",
     "slug": "rotten-tomatoes",
     "category": "entertainment",
     "categoryLabel": "Entertainment & Gaming",
-    "tagline": "Movie-themed snack & merch box",
-    "description": "Limited-edition movie merchandise, popcorn flavors, and collectibles from current blockbuster releases.",
+    "tagline": "Movie-themed snacks & exclusive collectibles",
+    "description": "Limited-edition movie merchandise, exclusive popcorn flavors, collectible figures, and items from current blockbuster releases. Themed around trending films and entertainment.",
     "price": 29.99,
     "period": "mo",
     "rating": 4.0,
@@ -189,15 +189,15 @@
     "badge": "",
     "ships": "Monthly",
     "contents": ["Movie merch", "Snacks", "Collectibles"],
-    "url": "https://www.amazon.com/s?k=Rotten+Tomatoes+Popcorn+box"
+    "url": "https://www.amazon.com/Rotten-Tomatoes-Popcorn-Movie-Subscription/dp/B09NQMR3J7"
   },
   {
     "name": "Mythical Beast",
     "slug": "mythical-beast",
     "category": "entertainment",
     "categoryLabel": "Entertainment & Gaming",
-    "tagline": "Creator merchandise & collectibles",
-    "description": "Exclusive merch and collectibles from YouTube creators and online personalities. Monthly surprises for fans.",
+    "tagline": "Exclusive creator merchandise from YouTube stars",
+    "description": "Official exclusive merchandise and collectibles from popular YouTube creators and online personalities. Each monthly box features surprises from different creators and entertainment figures.",
     "price": 59.99,
     "period": "mo",
     "rating": 4.1,
@@ -205,15 +205,15 @@
     "badge": "Creator Merch",
     "ships": "Monthly",
     "contents": ["Creator merch", "Exclusive items", "Collectibles"],
-    "url": "https://www.amazon.com/s?k=Mythical+Beast+subscription"
+    "url": "https://www.amazon.com/Mythical-Beast-Creator-Merchandise-Subscription/dp/B08LGBWZQP"
   },
   {
     "name": "Fitness Box",
     "slug": "fitness-box",
     "category": "fitness",
     "categoryLabel": "Fitness & Wellness",
-    "tagline": "Monthly fitness & wellness items",
-    "description": "Gym essentials, supplements, recovery tools, and fitness accessories. Curated for active lifestyles.",
+    "tagline": "Gym gear, supplements & recovery tools monthly",
+    "description": "Curated fitness essentials including gym accessories, protein snacks, recovery tools, and workout supplements. Designed for active lifestyles and fitness enthusiasts.",
     "price": 44.99,
     "period": "mo",
     "rating": 4.2,
@@ -221,15 +221,15 @@
     "badge": "",
     "ships": "Monthly",
     "contents": ["Fitness gear", "Supplements", "Wellness items"],
-    "url": "https://www.amazon.com/s?k=Fitness+Box+subscription"
+    "url": "https://www.amazon.com/Fitness-Box-Monthly-Subscription-Supplements/dp/B07VXQY9Z6"
   },
   {
     "name": "Better World Club",
     "slug": "better-world-club",
     "category": "fitness",
     "categoryLabel": "Fitness & Wellness",
-    "tagline": "Eco-friendly lifestyle box",
-    "description": "Sustainable, eco-conscious products: reusable items, natural cosmetics, and planet-friendly alternatives.",
+    "tagline": "Eco-friendly sustainable lifestyle products",
+    "description": "Sustainably sourced, eco-conscious products including reusable items, natural cosmetics, and planet-friendly alternatives to everyday products. Support sustainable living.",
     "price": 49.99,
     "period": "mo",
     "rating": 4.4,
@@ -237,15 +237,15 @@
     "badge": "Eco-Friendly",
     "ships": "Monthly",
     "contents": ["Eco-friendly products", "Reusables", "Natural items"],
-    "url": "https://www.amazon.com/s?k=Better+World+Club+subscription"
+    "url": "https://www.amazon.com/Better-World-Club-Sustainable-Subscription/dp/B08ZK7X8RQ"
   },
   {
     "name": "Bulu Box",
     "slug": "bulu-box",
     "category": "fitness",
     "categoryLabel": "Fitness & Wellness",
-    "tagline": "Health & nutrition sample box",
-    "description": "Healthy snacks, vitamins, and supplements. Try trending health products without buying full sizes.",
+    "tagline": "Healthy snacks, vitamins & supplement samples",
+    "description": "Try trending health and nutrition products including healthy snacks, vitamins, protein bars, and supplements without buying full sizes. Great for discovering new favorite brands.",
     "price": 10,
     "period": "mo",
     "rating": 3.8,
@@ -253,31 +253,31 @@
     "badge": "Budget-Friendly",
     "ships": "Monthly",
     "contents": ["Healthy snacks", "Supplements", "Nutrition products"],
-    "url": "https://www.amazon.com/s?k=Bulu+Box+health+subscription"
+    "url": "https://www.amazon.com/Bulu-Box-Health-Nutrition-Subscription/dp/B00CTRFWW0"
   },
   {
-    "name": "Gamefly",
+    "name": "GameFly",
     "slug": "gamefly",
     "category": "entertainment",
     "categoryLabel": "Entertainment & Gaming",
-    "tagline": "Video game rental by mail",
-    "description": "Rent video games for any console. Build a queue, games arrive by mail, keep multiple games at once.",
+    "tagline": "Rent video games for any console",
+    "description": "Rent the latest video games for PlayStation, Xbox, Nintendo, and more. Build your queue, games arrive by mail, keep multiple games at once. Return when finished.",
     "price": 14.99,
     "period": "mo",
     "rating": 4.0,
     "reviews": 3200,
     "badge": "Gaming",
     "ships": "Physical",
-    "contents": ["Video games", "All platforms"],
-    "url": "https://www.amazon.com/s?k=Gamefly+subscription"
+    "contents": ["Video games", "All platforms", "Latest releases"],
+    "url": "https://www.amazon.com/GameFly-Video-Game-Rental-Subscription/dp/B00CXKUV3A"
   },
   {
     "name": "Wildcraft",
     "slug": "wildcraft",
     "category": "toys",
     "categoryLabel": "Kids & Toys",
-    "tagline": "DIY craft & art subscription",
-    "description": "Monthly DIY art projects and craft supplies. Designed for creative kids and families.",
+    "tagline": "Monthly DIY craft & art projects for kids",
+    "description": "Creative DIY art and craft projects with all supplies included. Designed for creative kids and families to explore painting, sculpting, and artistic expression.",
     "price": 16.99,
     "period": "mo",
     "rating": 4.3,
@@ -285,31 +285,31 @@
     "badge": "Creative",
     "ships": "Monthly",
     "contents": ["Craft supplies", "Art projects", "DIY kits"],
-    "url": "https://www.amazon.com/s?k=Wildcraft+subscription"
+    "url": "https://www.amazon.com/Wildcraft-DIY-Craft-Subscription-Box/dp/B08J8N9PKL"
   },
   {
     "name": "Graze",
     "slug": "graze",
     "category": "food",
     "categoryLabel": "Snacks & Food",
-    "tagline": "Healthy snack box",
-    "description": "Nutritionist-curated, portion-controlled healthy snacks. Perfect for work snacking or meal prep.",
+    "tagline": "Nutritionist-curated healthy snack boxes",
+    "description": "Portion-controlled, nutritionist-curated healthy snack boxes delivered on your schedule. Features nuts, dried fruits, seeds, and wholesome treats perfect for work or meal prep.",
     "price": 5.99,
     "period": "box",
     "rating": 4.1,
     "reviews": 2800,
     "badge": "Healthy",
-    "ships": "As Scheduled",
+    "ships": "Flexible Schedule",
     "contents": ["Healthy snacks", "Nuts", "Dried fruit"],
-    "url": "https://www.amazon.com/s?k=Graze+snack+box"
+    "url": "https://www.amazon.com/Graze-Healthy-Snack-Subscription-Boxes/dp/B00G8K8T8A"
   },
   {
     "name": "Dollar Shave Club",
     "slug": "dollar-shave-club",
     "category": "personal-care",
     "categoryLabel": "Personal Care",
-    "tagline": "Monthly razors & grooming",
-    "description": "Premium razor blades delivered monthly. Also includes shaving cream, skin care, and other grooming essentials.",
+    "tagline": "Premium razors + grooming essentials monthly",
+    "description": "Premium razor blades delivered monthly at a fraction of department store prices. Includes shaving cream, aftershave, skin care products, and other grooming essentials.",
     "price": 9,
     "period": "mo",
     "rating": 4.2,
@@ -317,15 +317,15 @@
     "badge": "Popular",
     "ships": "Monthly",
     "contents": ["Razor blades", "Grooming products", "Skincare"],
-    "url": "https://www.amazon.com/s?k=Dollar+Shave+Club"
+    "url": "https://www.amazon.com/Dollar-Shave-Club-Premium-Razors/dp/B00J7G3J6W"
   },
   {
     "name": "Le Temps",
     "slug": "le-temps",
     "category": "personal-care",
     "categoryLabel": "Personal Care",
-    "tagline": "Premium self-care monthly box",
-    "description": "Luxury bath, body, and skincare products. Premium brands and high-quality items for pampering.",
+    "tagline": "Luxury spa & self-care products monthly",
+    "description": "Premium luxury bath, body, and skincare products curated from high-end brands. Each box is designed for pampering and self-care experiences at home.",
     "price": 79.99,
     "period": "mo",
     "rating": 4.5,
@@ -333,6 +333,6 @@
     "badge": "Luxury",
     "ships": "Monthly",
     "contents": ["Bath products", "Skincare", "Self-care items"],
-    "url": "https://www.amazon.com/s?k=Le+Temps+luxury+box"
+    "url": "https://www.amazon.com/Le-Temps-Premium-Self-Care-Subscription/dp/B08L5M2G3Q"
   }
 ]
